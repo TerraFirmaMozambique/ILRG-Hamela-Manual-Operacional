@@ -23,7 +23,7 @@ Esta atividade facilitará e documentará actividades de regularização da poss
 
 O principal objectivo desta actividade é pilotar uma metodologia que possa ajudar a estabelecer um equilíbrio entre os “benefícios e encargos” do investimento da Portucel e garantir que existe um processo transparente e equitativo que regula o acesso a estas parcelas irrigadas após a conclusão. O processo garantirá que todos os membros das cinco comunidades tenham a oportunidade de se beneficiar do investimento da Portucel.
 
-**Alvo e foco geográfico**
+**Alvos e Foco Geográfico**
 
 Este trabalho terá lugar principalmente nos distritos de Ile e Namarroi, província da Zambézia, Moçambique. Os beneficiários alvos são indivíduos e agregados familiares que detêm direitos adquiridos sobre a terra. Estima-se que o trabalho irá impactar aproximadamente 600 desses indivíduos / famílias em cada uma das 5 comunidades. O implementador do fundo garantirá que os direitos das mulheres de acesso e controle sobre a terra nessa área matrilinear sejam respeitados e, se necessário, fortalecidos.
 
