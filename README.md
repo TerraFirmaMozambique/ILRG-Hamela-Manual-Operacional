@@ -2,8 +2,7 @@
 
 ![](.gitbook/assets/terrafirmalogo2016.png)
 
-  
-**Sumário Executivo**
+##  **Sumário Executivo**
 
 O propósito do programa de Governança Integrada de Terra e Recursos \(ILRG\), financiado pela USAID, é desenvolver e implementar intervenções direcionadas para remover as barreiras relacionadas à posse de terra, para alcançar objetivos prioritários de desenvolvimento, tais como prevenir e mitigar conflitos, combater o extremismo violento, alcançar empoderamento econômico, promoção de crescimento econômico inclusivo, aumento da produtividade agrícola e segurança alimentar, e fortalecimento da conservação da biodiversidade e gestão sustentável dos recursos naturais. Em Moçambique, o ILRG procura identificar modelos de investimento em terra que proporcionem benefícios para as comunidades locais e, ao mesmo tempo, sejam rentáveis para os investidores.
 
@@ -11,7 +10,7 @@ Em 2011, a empresa florestal moçambicana Portucel Limitada recebeu uma grande c
 
 Os esquemas de irrigação provavelmente impactarão positivamente alguns membros da comunidade \(tornando a sua terra irrigável\) e alguns negativamente \(perdendo terreno para a represa ou albufeira\), enquanto outros não teriam acesso. Ao abrigo desta concessão, o implementador do projecto irá delimitar os limites da comunidade, mapear e documentar os direitos actuais à terra e facilitar discussões internas e acordos entre os membros das 5 comunidades para conceber planos de reajustamento da terra que envolvam acesso mais equitativo aos esquemas de irrigação.
 
-**Descrição do Programa**
+## **Descrição do Programa**
 
 As cinco comunidades envolvidas neste projeto de ILRG estão incluídas na lista de 70 locais propostos para as barragens. O objetivo deste piloto é ajudar a comunidade a identificar e resolver questões de posse da terra no contexto deste investimento.
 
@@ -19,11 +18,11 @@ A construção das cinco represas e o desenvolvimento de blocos de novas áreas 
 
 Esta atividade facilitará e documentará actividades de regularização da posse da terra \(delimitação da terra da comunidade e delimitação das parcelas familiares\) e atividades de reajustamento da terra. O ponto de partida para este processo será a delimitação formal das fronteiras das comunidades, seguida pelo mapeamento e documentação dos direitos da terra alocada às famílias e membros da comunidade. A fase a seguir envolverá discussões internas e acordos entre os membros da cada comunidade com o objetivo de reajustar as alocações de terra familiar que distribuade maneira mais justa os custos e benefícios dos sistemas de irrigação.
 
-**Metas, Objectivos e Resultados a Serem Obtidos**
+## **Metas, Objectivos e Resultados a Serem Obtidos**
 
 O principal objectivo desta actividade é pilotar uma metodologia que possa ajudar a estabelecer um equilíbrio entre os “benefícios e encargos” do investimento da Portucel e garantir que existe um processo transparente e equitativo que regula o acesso a estas parcelas irrigadas após a conclusão. O processo garantirá que todos os membros das cinco comunidades tenham a oportunidade de se beneficiar do investimento da Portucel.
 
-**Alvos e Foco Geográfico**
+## **Alvos e Foco Geográfico**
 
 Este trabalho terá lugar principalmente nos distritos de Ile e Namarroi, província da Zambézia, Moçambique. Os beneficiários alvos são indivíduos e agregados familiares que detêm direitos adquiridos sobre a terra. Estima-se que o trabalho irá impactar aproximadamente 600 desses indivíduos / famílias em cada uma das 5 comunidades. O implementador do fundo garantirá que os direitos das mulheres de acesso e controle sobre a terra nessa área matrilinear sejam respeitados e, se necessário, fortalecidos.
 
