@@ -12,7 +12,7 @@ Os esquemas de irrigação provavelmente impactarão positivamente alguns membro
 
 ## **Descrição do Programa**
 
-As cinco comunidades envolvidas neste projecto de ILRG estão incluídas na lista de 70 locais propostos para as barragens. O objectivo deste piloto é ajudar a comunidade a identificar e resolver questões de posse da terra no contexto deste investimento.
+As cinco comunidades envolvidas neste projecto de ILRG estão incluídas na lista de 70 locais propostos para as barragens. O objectivo deste piloto é ajudar as comunidades a identificar e resolver questões de posse da terra no contexto deste investimento.
 
 A construção das cinco represas e o desenvolvimento de blocos de novas áreas agrícolas irrigáveis apresentam oportunidades óbvias para alguns membros da comunidade. No entanto, os prováveis benefícios e desvantagens das barragens e os esquemas de irrigação não beneficiariam todos os membros da comunidade da mesma maneira. Algumas famílias perderão terras para as represas e as áreas inundadas; alguns descobrirão que porções de suas terras que se tornam irrigáveis são subitamente muito mais valiosas; outros estarão completamente fora das áreas irrigáveis.
 
