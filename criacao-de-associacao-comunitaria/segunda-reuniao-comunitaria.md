@@ -29,5 +29,5 @@ No fim desta actividade o motivador marca um TPC para que a comunidade termine a
 ## Conclusão
 
 * Preencher o Formulário C
-* Agradece os participantes por seu engajamento.
+* Agradecer os participantes por seu engajamento.
 

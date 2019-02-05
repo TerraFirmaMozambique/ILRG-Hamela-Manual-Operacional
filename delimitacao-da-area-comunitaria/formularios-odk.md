@@ -5,7 +5,7 @@
 ## Formulário D: Encontros de Diagnóstico Rural Participativo
 
 * Usado para capturar os detalhes de cada reunião realizada numa comunidade ou associação durante a fase de DRP. 
-* Preenche na comunidade, incluindo foto e coordenadas. 
+* Preencher na comunidade, incluindo foto e coordenadas. 
 
 ## Formulário E: Perfil Histórico
 

@@ -49,7 +49,7 @@ Isso e um instrumento para a análise das comunidades vizinhos e das instituiç�
 
 ## Ferramentas
 
-* Formulário D: Encontro da Diagnóstica Participativa
+* Formulário D: Encontro de Diagnóstico Participativo
 * Formulário F: Organização Social
 * Formulário A1: Pontos de Interesse \(opcional\)
 

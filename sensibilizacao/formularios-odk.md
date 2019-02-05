@@ -9,12 +9,12 @@
 
   sensibilização
 
-* Tem que ser preenchido no fim do encontro, porque requer uma foto dos participantes e os coordenados geográficas do encontro.
+* Tem que ser preenchido no fim do encontro, porque requer uma foto dos participantes e as coordenadas geográficas do encontro.
 
 ## Formulário B: Registo de Pontos de Interesse
 
 * Usar para gravar informação de pontos de interesse, em particular antes ou depois de encontros.
-* Vai ser usado várias vezes em cada povoado, gravando informação dum ponto de interesse cada vez.
+* Vai ser usado várias vezes em cada povoado, gravando informação dum ponto de interesse por vez.
 * Tem que ser preenchido no local, porque requer uma foto e as coordenadas geográficas.
 
 ## 

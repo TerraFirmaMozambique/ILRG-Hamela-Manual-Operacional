@@ -29,5 +29,5 @@ Identificar e descrever os principais acontecimentos que marcaram a comunidades,
 * Imagem /fotos dos membros da comunidade participantes no encontro
 * Coordenadas do local de realização do encontro
 
-Aqui havemos de incluir uma imagem dum exemplo dum perfil histórico.
+Será incluída uma imagem dum exemplo dum perfil histórico.
 

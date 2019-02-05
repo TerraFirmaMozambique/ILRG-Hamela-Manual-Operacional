@@ -24,5 +24,5 @@ Realizar a Assembleia-Constituinte: nesta secção o motivador modera a realiza�
 ## Conclusão
 
 * Preencher o Formulário XXX
-* Agradece os participantes por seu engajamento.
+* Agradecer os participantes por seu engajamento.
 

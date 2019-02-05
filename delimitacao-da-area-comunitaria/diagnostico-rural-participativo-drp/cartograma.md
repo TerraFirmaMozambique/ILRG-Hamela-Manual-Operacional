@@ -19,7 +19,7 @@ Fornecer informações gerais sobre a localização e/ou situação geográfica 
 
 ## Ferramentas
 
-* Formulário D: Encontro da Diagnóstica Participativa
+* Formulário D: Encontro de Diagnóstico Participativo
 * Formulário H: Cartograma
 * Mapas de imagens satélites
 

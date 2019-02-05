@@ -20,7 +20,7 @@ Objectivo principal: Sensibilização sobre o papel das associações comunitár
 
 * Agradecer a presença de todos os participantes.
 * Lembrar qualquer engajamento anterior da equipa na comunidade. 
-* Perguntar uma série de clarificações sobre essas actividades anteriores; o que foi feito? com quem? Quais são os resultados e o seu possível impacto?
+* Pedir uma série de clarificações sobre essas actividades anteriores; o que foi feito? com quem? Quais são os resultados e o seu possível impacto?
 
 ## Processo CaVaTeCo
 
@@ -87,6 +87,6 @@ No fim desta secção o motivador orienta a planificação e marcação dos enco
 ## Conclusão
 
 * Preencher o Formulario C.
-* Agradece os participantes por seu engajamento.
+* Agradecer os participantes por seu engajamento.
 * A equipa irá retornar após uma semana para começar a trabalhar na criação de uma associação comunitária, trabalhando numa fase inicial com as povoações da comunidade.
 

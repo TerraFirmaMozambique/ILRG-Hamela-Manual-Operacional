@@ -29,7 +29,7 @@ A equipe de trabalho coordena com a liderança da comunidade local do encontro. 
 
 ## Ferramentas
 
-* Formulário D: Encontro da Diagnóstica Participativa
+* Formulário D: Encontro de Diagnóstico Participativo
 * Formulário I: Devolução / Assinantes do Formulário 5
 
 ## Produtos
