@@ -6,7 +6,7 @@ Muitas comunidades já estabeleceram vários grupos e associações, por exemplo
 
 ## Assegurar uma ampla representação
 
-Uma associação comunitária de terra precisa de ser representativa de todos os grupos comunitários, incluindo as camadas mais vulneráveis da sociedade, de todos os interesses, de todas as subunidades territoriais intracomunitários, tais como povoações e aldeias.
+Uma associação comunitária de terra precisa de ser representativa de todos os grupos comunitários, incluindo as camadas mais vulneráveis da sociedade, de todos os interesses, de todas as subunidades territoriais intra comunitários, tais como povoações e aldeias.
 
 ## Atingir legalidade e legitimidade
 

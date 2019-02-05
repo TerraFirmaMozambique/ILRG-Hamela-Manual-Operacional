@@ -12,7 +12,7 @@ Uma reunião de duração de um dia ao nível da comunidade, até um mês após 
 
 De seguida modera a discussão das propostas de estatutos esboçados pelos povoados e harmonizá-las em um único corpo de estatutos da associação da comunidade.
 
-Refera ao modelo de estatutos.
+Refere ao modelo de estatutos.
 
 Chuva de ideias: a nossa associação tem que fazer o que?
 
@@ -22,12 +22,12 @@ Compilar as ideias num documento, seguindo o esboço do exemplo
 
 ## Seguimento
 
-Identificação da accão administrativa necessária para realizar a filiação dos membros;
+Identificação da acção administrativa necessária para realizar a filiação dos membros;
 
 No fim desta actividade o motivador marca um TPC para que a comunidade termine a harmonização dos estatutos .
 
 ## Conclusão
 
-* Preencher o Formulario C
+* Preencher o Formulário C
 * Agradece os participantes por seu engajamento.
 

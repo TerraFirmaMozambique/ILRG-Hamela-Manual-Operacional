@@ -24,7 +24,7 @@ Antes de todas as visitas:
 
 * Acordar com a liderança pelo menos 3 dias de antecedência
 * Pedir a liderança comunitária para mobilizar representantes de cada povoado, zona ou quarteirão
-* Acordar e reconfirmar a hora e o ponto de encontro na véspera da reunião
+* Acordar e re-confirmar a hora e o ponto de encontro na véspera da reunião
 
 ## Ferramentas
 
@@ -33,6 +33,6 @@ Antes de todas as visitas:
 * Exemplos de Estatutos e Regulamentos duma organização 
 * Canetas e marcadores
 * Tablet e Formulários ODK: A1, A2, C, C1, C2 e C3 \(veja resumo em anexo\)
-* GarminGlo
+* Garmin Glo
 * Anexo Técnico: Formulário 1
 

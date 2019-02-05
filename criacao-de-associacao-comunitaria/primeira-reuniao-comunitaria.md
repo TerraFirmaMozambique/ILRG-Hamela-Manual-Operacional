@@ -60,7 +60,7 @@ Fornecer um cronograma aproximado das actividades para a comunidade alvo.
 ## Desvantagens de trabalhar em grupo/associação:
 
 * Demora na tomada de decisões;
-* Suscetível de gerar conflitos;
+* Susceptível de gerar conflitos;
 * Falta de homogeneidade/uniformidade.
 
 As leis principais são:

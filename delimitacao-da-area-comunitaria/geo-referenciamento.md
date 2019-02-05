@@ -27,11 +27,11 @@ O técnico responsável da SPGC coordena com a liderança da comunidade local a 
   * O povoado local pode ser representado por 6 membros com conhecimento dos seus limites, incluindo homens e mulheres.
   * O facilitador solicita ao líder do povoado para convidar os povoados vizinhos para o referido encontro, incluindo representes mulheres e homens.
 * No dia do trabalho, confirma a presença dos membros da comunidade local, assim como os vizinhos que fazem limites com a comunidade local.
-* O facilitador explica os objectivos do trabalho e a metodologia a ser usada, e apresenta os instrumentos de trabalho \(mapas, tablet, Garmin\).
+* O facilitador explica os objectivos do trabalho e a metodologia a ser usada, e apresenta os instrumentos de trabalho \(mapas, tablet, Garmin Glo\).
 * Com base dos mapas participativos e imagens satélites, o facilitador identifica a comunidade local, assim irá facilitar a discussão.
 * A comunidade local identifica os limites na imagem satélite e/ou carta topográfica. Podes fazer referencia aos mapas participativos feitos pela comunidade.
 * As comunidades vizinhas confirmam os limites.
-* Com lápis de carvão apropriado, a comunidade local vai traçando os limites direitamente na imagem satélite ou na carta topográfica.
+* Com lápis de carvão apropriado, a comunidade local vai traçando os limites directamente na imagem satélite ou na carta topográfica.
 * Em caso de consenso, conclui-se o trabalho.
 * Em caso de dificuldade de identificação de limites na imagem satélite e na carta topográfica ou opiniões diferentes sobre os limites, o facilitador junto com as comunidades locais e vizinhos, percorrem os limites no terreno, identificando e levantando as coordenadas geográficas, com base no tablet e GPS \(Garmin Glo\);
 * Preencher e enviar o Formulário D;

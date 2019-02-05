@@ -25,7 +25,7 @@ Estes encontros servem para falar com os habitantes de cada povoado sobre:
 
 ## Seguimento
 
-Discutir e entregar trabalho para casa \(TPC\) para reflectir sobre todas estas questões, nomeadamente uma reflexão para uma proposta de adesão de membros dos povoados à associação para criar uma situação de inclusão e representatividade de todos, incluindo os mais pobres e vulneráveis \(pré-seleção de candidatos\).
+Discutir e entregar trabalho para casa \(TPC\) para reflectir sobre todas estas questões, nomeadamente uma reflexão para uma proposta de adesão de membros dos povoados à associação para criar uma situação de inclusão e representatividade de todos, incluindo os mais pobres e vulneráveis \(pré-selecção de candidatos\).
 
 ## Conclusão
 

@@ -11,7 +11,7 @@ A fim de supervisionar o processo de formalização que irá resultar na emissã
 3. Processos de Gestão
 4. Protocolos de resolução de conflitos
 
-As atividades subsequentes incluirão a elaboração conjunta de estatutos adequados para a entidade, auxiliando os membros fundadores a reunir a documentação necessária e ajudar na recepção e processamento dos pedidos de reconhecimento formal. A equipe também irá garantir a publicação dos estatutos da associação da comunidade no Boletim da República.
+As actividades subsequentes incluirão a elaboração conjunta de estatutos adequados para a entidade, auxiliando os membros fundadores a reunir a documentação necessária e ajudar na recepção e processamento dos pedidos de reconhecimento formal. A equipe também irá garantir a publicação dos estatutos da associação da comunidade no Boletim da República.
 
 ## Conceitos Básicos na criação duma Associação
 
@@ -56,7 +56,7 @@ Em função dos problemas comuns, dos membros:
 * Aprovar e alterar os estatutos da Associação;
 * Admitir novos membros;
 * Aplicar a pena de expulsão aos membros ou associados que não cumpram os seus deveres ou abusem dos seus direitos;
-* Definir o valor da joia e das mensalidades em quotas a pagar por cada associado;
+* Definir o valor da jóia e das mensalidades em quotas a pagar por cada associado;
 * Aprovar o regulamento interno da Associação;
 * Aprovar os planos económicos e financeiros da Associação e controlar a sua execução;
 * Deliberar sobre aplicações dos resultados líquidos da actividade anual da Associação;
@@ -103,7 +103,7 @@ Compete ao Conselho Fiscal:
 
 * Examinar a actividade económica em conformidade com os planos estabelecidos;
 * Analisar os relatórios de actividades e de contas do Conselho Fiscal, bem como as propostas do orçamento e plano de actividades da Associação para o ano seguinte, emitindo posteriormente os devidos pareceres antes de serem submetidos a análise e aprovação da Assembleia Geral;
-* Conferir saldos de caixa, balancetes mensais, receitas e despesas, examinando cuidadosa e periodicamente a escritura da Associação para verificar a sua exactidão e legalidade dos pagamentos;
+* Conferir saldos de caixa, balancete mensais, receitas e despesas, examinando cuidadosa e periodicamente a escritura da Associação para verificar a sua exactidão e legalidade dos pagamentos;
 * Verificar se está a realizar-se o correcto aproveitamento dos meios de produção da Associação e se não há esbanjamento ou desvio de fundos;
 * Fiscalizar a disciplina e a remuneração do trabalhador na Associação e zelar em geral, pelo cumprimento por parte do Conselho de Direcção dos estatutos, regulamento e demais deliberações da Assembleia Geral.
 * Analisar as queixas dos membros da Associação, relativamente as decisões e actuações do Conselho de Direcção;

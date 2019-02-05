@@ -4,7 +4,7 @@ Conhecimento do perfil histórico e os acontecimentos mais importantes que tiver
 
 A liderança da comunidade e outros influentes devem participar nestes encontros, tendo em consideração que melhor podem conhecer a a historia da comunidade.
 
-Objectivos
+## Objectivos
 
 Identificar e descrever os principais acontecimentos que marcaram a comunidades, com vista a ter um conhecimento geral da historia da comunidade desde a sua fundação.
 
@@ -19,19 +19,15 @@ Identificar e descrever os principais acontecimentos que marcaram a comunidades,
 
 ## Ferramentas
 
-• Formulário D: Encontro da Diagnóstica Participativa
-
-• Formulário C: Perfil Historial da Comunidade
-
-• Formulário A1: Pontos de interesse \(opcional\)
+* Formulário D: Encontro de Diagnóstico Participativo
+* Formulário C: Perfil Historial da Comunidade
+* Formulário A1: Pontos de Interesse \(opcional\)
 
 ## Produtos
 
-• Perfil histórico da comunidade;
-
-• Imagem /fotos dos membros da comunidade participantes no encontro;
-
-• Coordenadas do local de realização do encontro,
+* Perfil histórico da comunidade
+* Imagem /fotos dos membros da comunidade participantes no encontro
+* Coordenadas do local de realização do encontro
 
 Aqui havemos de incluir uma imagem dum exemplo dum perfil histórico.
 

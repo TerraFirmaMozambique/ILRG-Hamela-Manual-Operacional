@@ -42,7 +42,7 @@ Processo
 
 ## Ferramentas
 
-• Formulário D: Encontro da Diagnóstica Participativa
+• Formulário D: Encontro de Diagnóstico Participativo
 
 ## Produtos
 

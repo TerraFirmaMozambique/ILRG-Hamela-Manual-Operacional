@@ -2,7 +2,7 @@
 
 ## Objectivos
 
-Reunião de duração de um dia ao nível da comunidade organizada, até duas semanas após a reunião anterior, como a Assembleia Constituente para aprovar oficialmente os membros e os estatutos da associação .
+Reunião de duração de um dia ao nível da comunidade organizada, até duas semanas após a reunião anterior, como a Assembleia Constituinte para aprovar oficialmente os membros e os estatutos da associação .
 
 ## Introdução da reunião
 
@@ -17,12 +17,12 @@ Realizar a Assembleia-Constituinte: nesta secção o motivador modera a realiza�
 * Reserva de nome com a assinatura dos membros fundadores no registo e notariado;
 * Submeter o requerimento ao Posto Administrativo da constituição da associação;
 * Celebrar escritura pública no Notário, com os membros fundadores;
-* Obter certidão da escritura pública e extratos para publicação no Boletim da República; 
+* Obter certidão da escritura pública e extractos para publicação no Boletim da República; 
 * Solicitar a publicação no Boletim da República;
 * Fazer o registo comercial na conservatória.
 
 ## Conclusão
 
-* Preencher o Formulario XXX
+* Preencher o Formulário XXX
 * Agradece os participantes por seu engajamento.
 

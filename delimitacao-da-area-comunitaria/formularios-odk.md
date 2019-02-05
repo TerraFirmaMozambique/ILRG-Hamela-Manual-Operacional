@@ -15,9 +15,10 @@
 
 Usado para registar informações sobre a organização social da comunidade.
 
-* Inclui fotos de dois diagramas:
-  * diagrama de Venn: identifica comunidades vizinhos e organizações internas ou externas que são influentes na vida da comunidade
-  * diagrama de estrutura de liderança: organograma que identifica a hierarquia dos lideres 
+Inclui fotos de dois diagramas:
+
+* Diagrama de Venn: identifica comunidades vizinhos e organizações internas ou externas que são influentes na vida da comunidade
+* Diagrama de estrutura de liderança: organograma que identifica a hierarquia dos lideres 
 
 ## Formulário G: Mapas Participativos
 

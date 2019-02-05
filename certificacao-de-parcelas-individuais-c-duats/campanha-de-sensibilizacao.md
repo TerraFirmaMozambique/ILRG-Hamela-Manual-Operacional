@@ -39,7 +39,7 @@ Apresentar a comunidade a metodologia de trabalho de delimitação e certificaç
 * Mapa Visão Geral
 * Mapas de Serie H
 * Tablet
-* Garmin
+* Garmin Glo
 * Fita sinalização
 * Formulário A
 

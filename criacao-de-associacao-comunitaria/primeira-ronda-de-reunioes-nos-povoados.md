@@ -14,7 +14,7 @@ Sensibilização sobre o papel das associações comunitárias de terra
 
 * Explicação geral do objectivo de ter uma associação no nível da comunidade;
 * Fornecer informações sobre diferentes formas de tal instituição baseados a Lei 2/2006 das associações agropecuárias e Lei 8/1991 das associações;
-* Discutir e entregar trabalho para casa \(TPC\) para reflectir sobre requerimentos dos membros, orgoes sociais, estatutos e regulamentos no âmbito de criação da associação.
+* Discutir e entregar trabalho para casa \(TPC\) para reflectir sobre requerimentos dos membros, estruturas sociais, estatutos e regulamentos no âmbito de criação da associação.
 
 ## Introdução da reunião
 
@@ -27,7 +27,7 @@ Estes encontros servem para falar com os habitantes de cada povoado sobre:
 
 ## Seguimento \(TPC\)
 
-Discutir e entregar trabalho para casa \(TPC\) para reflectir sobre todas estas questões, nomeadamente uma reflexão para uma proposta de adesão de membros das povoações à associação para criar uma situação de inclusão e representatividade de todos, incluindo os mais pobres e vulneráveis \(pré-seleção de candidatos\).
+Discutir e entregar trabalho para casa \(TPC\) para reflectir sobre todas estas questões, nomeadamente uma reflexão para uma proposta de adesão de membros das povoações à associação para criar uma situação de inclusão e representatividade de todos, incluindo os mais pobres e vulneráveis \(pré-selecção de candidatos\).
 
 ## Conclusão
 
