@@ -25,7 +25,7 @@ As actividades subsequentes incluirão a elaboração conjunta de estatutos adeq
 
 Em função dos problemas comuns, dos membros:
 
-* Se o problema e falta de terra, então o objectivo da associação pode ser recuperar as terras…
+* Se o problema for falta de terra, então o objectivo da associação pode ser recuperar as terras…
 * Se o problema for de falta de equipamento, então o objectivo pode ser compra e gestão em comum de equipamento…
 * Se o problema for de venda de produtos então o objectivo pode ser recolha e venda de produtos colectivamente
 
@@ -50,7 +50,7 @@ Em função dos problemas comuns, dos membros:
 
 ### Competências da Assembleia Geral
 
-* Eleger os membros de conselho de direcção e do conselho fiscal; 
+* Eleger os membros do conselho de direcção e do conselho fiscal; 
 * Definir o programa e as linhas gerais de actuação da Associação;
 * Apreciar e votar os relatórios anuais de actividades e de contas do conselho de direcção e o relatório do conselho fiscal;
 * Aprovar e alterar os estatutos da Associação;
@@ -106,7 +106,7 @@ Compete ao Conselho Fiscal:
 * Conferir saldos de caixa, balancete mensais, receitas e despesas, examinando cuidadosa e periodicamente a escritura da Associação para verificar a sua exactidão e legalidade dos pagamentos;
 * Verificar se está a realizar-se o correcto aproveitamento dos meios de produção da Associação e se não há esbanjamento ou desvio de fundos;
 * Fiscalizar a disciplina e a remuneração do trabalhador na Associação e zelar em geral, pelo cumprimento por parte do Conselho de Direcção dos estatutos, regulamento e demais deliberações da Assembleia Geral.
-* Analisar as queixas dos membros da Associação, relativamente as decisões e actuações do Conselho de Direcção;
+* Analisar as queixas dos membros da Associação, relativamente às decisões e actuações do Conselho de Direcção;
 * Apresentar o relatório de prestação de contas do seu trabalho nas sessões da Assembleia Geral.
 
 ## Comparação das Leis das Associações
@@ -118,7 +118,7 @@ Compete ao Conselho Fiscal:
 * Estabelecimento fácil e rápido:
   * Membros precisam qualquer documentação \(incluindo BI ou outro documento válido emitido por entidade pública, ou pela abonação de duas testemunhas, ou ainda pelo reconhecimento pessoal da autoridade administrativa
   * Reconhecido ao nível de Posto Administrativo ou Distrito
-* O tipo da instituição mas comum para lidar com a terra e os recursos naturais
+* O tipo da instituição mais comum para lidar com a terra e os recursos naturais
 * Têm como objectivo defender os interesses dos seus membros, fomentando e apoiando a produção, a transformação, a conservação, a distribuição, o transporte e a comercialização de bens e produtos relativos às suas actividades
 * Representar os seus interesses perante a Lei
 * Abrir conta bancária em nome da associação comunitária
@@ -146,7 +146,7 @@ Compete ao Conselho Fiscal:
 
 * Membros tem que ter BIs e Registo Criminal, tratado ao nível provincial
 * Registo criminal deve ser tramitado em Maputo
-* Reconhecido ao nível de provincial, qual processo pode ser moroso 
+* Reconhecido ao nível provincial, qual processo pode ser moroso 
 * Tem que enviar anualmente ao Ministério das Finanças e ao Tribunal Administrativo o relatório e as contas do exercício findo
-* O processo de tramitação e moroso, pode levar mais de 9 meses para o despacho
+* O processo de tramitação é moroso, pode levar mais de 9 meses para o despacho
 

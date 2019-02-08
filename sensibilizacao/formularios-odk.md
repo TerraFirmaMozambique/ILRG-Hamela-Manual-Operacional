@@ -5,7 +5,7 @@
 ## Formulário A: Registo de Encontros de Sensibilização
 
 * Usar para gravar informação geral durante os encontros no processo de sensibilização
-* Vai ser usado várias vezes em cada sitio onde haja actividades de
+* Vai ser usado várias vezes em cada sítio onde haja actividades de
 
   sensibilização
 
