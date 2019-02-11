@@ -72,7 +72,7 @@ Em função dos problemas comuns, dos membros:
 ### Competências do Conselho de Direcção
 
 * Compete ao Conselho de Direcção: 
-* Administração e gestão das actividades da Associação com os mais amplos poderes, de modo a garantir a realização dos seus objectivos;
+* Administrar e gerir as actividades da Associação com os mais amplos poderes, de modo a garantir a realização dos seus objectivos;
 * Garantir o cumprimento das disposições legais, estatutárias e das deliberações da Assembleia Geral;
 * Elaborar e submeter ao Conselho Fiscal e aprovação da Assembleia Geral, os relatórios de actividades e das contas, bem como o orçamento e o programa de actividades para o ano seguinte;
 * Adquirir todos os bens necessários para o seu funcionamento e para o funcionamento da Associação e alienar aqueles que se julgue dispensáveis, bem como contratar serviços para a Associação;
@@ -135,16 +135,16 @@ Compete ao Conselho Fiscal:
 
 #### Vantagens desta Lei:
 
-* Os objectivos são abrangentes, admitindo varias actividades
+* Os objectivos são abrangentes, admitindo várias actividades
 * Representar os seus interesses perante a Lei
-* As associações poderão requerer a declaração de utilidade publica desde que prossigam fins de interesse geral ou da comunidade. 
+* As associações poderão requerer a declaração de utilidade pública desde que prossigam fins de interesse geral ou da comunidade. 
 * Abrir conta bancária em nome da associação comunitária
 * Celebrar contratos legalmente válidos 
 * A associação legalmente constituída pode beneficiar-se de incentivos
 
 #### Desvantagens desta Lei:
 
-* Membros tem que ter BIs e Registo Criminal, tratado ao nível provincial
+* Membros têm que ter BIs e Registo Criminal, tratado a nível provincial
 * Registo criminal deve ser tramitado em Maputo
 * Reconhecido ao nível provincial, qual processo pode ser moroso 
 * Tem que enviar anualmente ao Ministério das Finanças e ao Tribunal Administrativo o relatório e as contas do exercício findo
