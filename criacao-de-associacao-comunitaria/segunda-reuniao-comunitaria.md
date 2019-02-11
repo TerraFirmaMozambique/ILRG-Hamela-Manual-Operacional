@@ -10,13 +10,13 @@ Uma reunião de duração de um dia ao nível da comunidade, até um mês após 
 
 ## Introdução da reunião
 
-De seguida modera a discussão das propostas de estatutos esboçados pelos povoados e harmonizá-las em um único corpo de estatutos da associação da comunidade.
+De seguida moderar a discussão das propostas de estatutos esboçados pelos povoados e harmonizá-las em um único corpo de estatutos da associação da comunidade.
 
 Refere ao modelo de estatutos.
 
 Chuva de ideias: a nossa associação tem que fazer o que?
 
-Refere ao exemplo de estatutos duma associação de terra comunitária, e as clausulas propostas.
+Refere ao exemplo de estatutos duma associação de terra comunitária, e as cláusulas propostas.
 
 Compilar as ideias num documento, seguindo o esboço do exemplo
 

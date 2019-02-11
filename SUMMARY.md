@@ -20,7 +20,7 @@
   * [Princípios básicos](delimitacao-da-area-comunitaria/principios-basicos.md)
   * [Sensibilização](delimitacao-da-area-comunitaria/sensibilizacao.md)
   * [Diagnóstico Rural Participativo \(DRP\)](delimitacao-da-area-comunitaria/diagnostico-rural-participativo-drp/README.md)
-    * [Perfil Historico](delimitacao-da-area-comunitaria/diagnostico-rural-participativo-drp/perfil-historico.md)
+    * [Perfil Histórico](delimitacao-da-area-comunitaria/diagnostico-rural-participativo-drp/perfil-historico.md)
     * [Organização Social](delimitacao-da-area-comunitaria/diagnostico-rural-participativo-drp/organizacao-social.md)
     * [Mapas Participativos](delimitacao-da-area-comunitaria/diagnostico-rural-participativo-drp/mapas-participativos.md)
     * [Cartograma](delimitacao-da-area-comunitaria/diagnostico-rural-participativo-drp/cartograma.md)

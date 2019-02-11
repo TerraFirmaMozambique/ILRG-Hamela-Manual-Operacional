@@ -29,7 +29,7 @@ Discutir e entregar trabalho para casa \(TPC\) para reflectir sobre todas estas 
 
 ## Conclusão
 
-* Preencher o Formulario C e C1
+* Preencher o Formulário C e C1
 * Agradecer os participantes por seu engajamento.
 * A equipa irá retornar para trabalhar com outros povoados.
 

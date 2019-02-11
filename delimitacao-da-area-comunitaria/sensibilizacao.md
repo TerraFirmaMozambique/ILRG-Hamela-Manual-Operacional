@@ -1,6 +1,6 @@
 # Sensibilização
 
-Na realização de delimitação comunitária, observa-se as seguintes actividades:
+Na realização da delimitação comunitária, observa-se as seguintes actividades:
 
 * Encontro com Governo local \(Distrito, Posto Administrativo e Localidade\);
 * Sensibilização das autoridades comunitárias;
@@ -19,13 +19,13 @@ Por seu turno, o Posto Administrativo e/ou localidade, coordena com as autoridad
 A sensibilização e divulgação no âmbito de delimitação comunitária é uma das fases importantes do processo, pois é a partir desta que as comunidades locais ficam informadas e esclarecidas sobre a delimitação. Na base duma sensibilização bem sucedida, as comunidades estão em condições de liderarem todo o processo e, influenciar as comunidades vizinhas. Nestes encontros são abordados assuntos incluindo:
 
 * Motivos da delimitação;
-* Aspectos relevantes da Lei de Terra e Seu Regulamento;
+* Aspectos relevantes da Lei de Terras e Seu Regulamento;
 * Objectivos e metodologia da delimitação;
 * Vantagens e implicações. 
 
 ## Objectivos
 
-O principal objectivo da sensibilização é de esclarecer e clarificar as comunidades locais o porque da delimitação comunitária de modo a facilitar o processo. Uma sensibilização forte e clara, pode tornar a delimitação comunitária transparente e com a participação activa das mulheres, homens e jovens.
+O principal objectivo da sensibilização é de esclarecer e clarificar as comunidades locais o porquê da delimitação comunitária de modo a facilitar o processo. Uma sensibilização forte e clara, pode tornar a delimitação comunitária transparente e com a participação activa das mulheres, homens e jovens.
 
 Processo
 
