@@ -4,9 +4,9 @@
 
 A CaVaTeCo propõe uma abordagem diferente, como alternativa à titulação formal de DUATs através do cadastro nacional:
 
-* ...que segue a lógica da lei 
+* ...que segue a lógica da lei;
 * ...em que as comunidades têm responsabilidades de gestão da terra \(e, portanto, poderes\);
-* ...que se encaixa dentro dum paradigma crescente de processos de reconhecimento de direitos sobre a terra, que postula um "continuum de direitos';
+* ...que se encaixa dentro dum paradigma crescente de processos de reconhecimento de direitos sobre a terra, que postula um "continuum de direitos";
 * ...que se concentra na criação de instituições legítimas a nível local dentro das comunidades que podem \(e já o fazem\) desempenhar uma função de administração da terra;
 * ...que aborda as questões decorrentes de costumes sociais arraigados que prejudicam as mulheres por envolvimento com essas instituições;
 * ...que aproveita as novas tecnologias e métodos mais baratos para identificar rapidamente propriedades de terra, sem a necessidade de processos de pesquisa caros;
