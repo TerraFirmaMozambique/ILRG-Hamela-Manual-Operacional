@@ -22,13 +22,13 @@ Inclui fotos de dois diagramas:
 
 ## Formulário G: Mapas Participativos
 
-Usado para capturar imagens dos mapas participativos feitos pelas mulheres e homens. Preenche na comunidade no fim de trabalho
+Usado para capturar imagens dos mapas participativos feitos pelas mulheres e homens. Preencher na comunidade no fim de trabalho
 
 ## Formulário H: Cartograma
 
-Usado para capturar a imagem do cartograma. Preenche na comunidade no fim do encontro
+Usado para capturar a imagem do cartograma. Preencher na comunidade no fim do encontro
 
 ## Formulário I: Devolução
 
-Usado para capturar informação sobre os membros da associação que vão assinar o Formulário 5 de Anexo Técnico. Devem ser gravados pelo menos três representantes da comunidade e os representantes das comunidades vizinhas. Inclui fotos e assinaturas dos assinantes, representantes e facilitadores
+Usado para capturar informação sobre os membros da associação que vão assinar o Formulário 5 de Anexo Técnico. Devem ser gravados pelo menos três representantes da comunidade e os representantes das comunidades vizinhas. Incluir fotos e assinaturas dos assinantes, representantes e facilitadores
 
