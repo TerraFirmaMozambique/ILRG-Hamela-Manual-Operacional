@@ -1,5 +1,5 @@
 ---
-description: Essa secção será desenvolvido durante a fase inicial do projecto.
+description: Esta secção será desenvolvida durante a fase inicial do projecto.
 ---
 
 # Reajustamento das Parcelas Familiares

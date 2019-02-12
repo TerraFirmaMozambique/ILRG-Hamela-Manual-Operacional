@@ -29,7 +29,7 @@ Importa ressaltar que nesta fase não serão feitas novas submissões, apenas a 
 
 * Formulário M Objecções e Corecções
 * Mapa A1 OC com limites alterados
-* Listas dos requerentes com corecções
+* Listas dos requerentes com correcções
 
 ## Produtos
 
