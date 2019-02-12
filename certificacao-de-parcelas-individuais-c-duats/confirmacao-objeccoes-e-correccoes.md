@@ -8,7 +8,7 @@ O objectivo da publicação do mapa e da lista das parcelas é de permitir que t
 
 Segundo o artigo 24, do Regulamento da Lei de Terras é obrigatório a afixação do edital em locais públicos de maior concentração da população para facilitar a consulta, o período máximo estabelecido pela legislação de terras é de 30 dias. No entanto, no programa Terra Segura, o edital é afixado durante o período de 15 dias.
 
-Assim, o mapa e a lista são exibidos na comunidade por um período de pelo menos 15 dias, de acordo com as directrizes nacionais. No entanto, sugerimos que, em algumas comunidades, talvez seja necessário prolongar esse período, para permitir que as pessoas que estão longe da comunidade tenham tempo suficiente para participar do processo.
+Assim, o mapa e a lista são exibidos na comunidade por um período de pelo menos 15 dias, de acordo com as directrizes nacionais. No entanto, sugerimos que, em algumas comunidades, talvez seja necessário prolongar esse período, para permitir que as pessoas que estejam longe da comunidade tenham tempo suficiente para participar do processo.
 
 É importante que os mapas/listas sejam publicados em locais públicos apropriados que permitam acesso a todos.
 
@@ -30,7 +30,11 @@ Cada indivíduo tem que indicar a sua:
 
 Ou
 
-* Correcção: caso haja algum dado a rectificar. Nestes casos, as correcções têm que ser feitas no mapa e na lista.
+* Correcção: caso haja algum dado a rectificar. Nestes casos, as correcções têm que ser feitas no mapa e na lista;
+
+Ou
+
+* Objecção: caso em que algum membro da comunidade queira contestar os limites da parcela de um dos requerentes.
 
 ## Processo
 
@@ -38,9 +42,9 @@ Durante o período do edital, os requerentes e/ou não-requerentes podem fazer o
 
 Com base no código cadastral da parcela e munidos do respectivo documento de identificação, as pessoas podem verificar no mapa se a localização e os limites da parcela estão correctos, assim como a informação contida na tabela. Com correcções ou objecções feitas, os dados são registados no mapa e/ou na lista, usando um sistema de adesivos coloridos.
 
-Quaisquer disputas sobre limites ou posse poderá ter de ser resolvido pela liderança tradicional local, pelos representantes da associação ou pela administração local.
+Quaisquer disputas sobre limites ou posse poderá ter ser resolvido pela liderança tradicional local, pelos representantes da associação ou pela administração local.
 
-Nota bem que neste período _**não será permitido a inscrição de novos titulares ou co-titulares**_.
+Nota bem que neste período _**não será permitida a inscrição de novos titulares ou co-titulares**_.
 
 > ![](../.gitbook/assets/edital_consult1.jpg)
 >

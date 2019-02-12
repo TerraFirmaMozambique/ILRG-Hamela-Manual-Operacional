@@ -2,16 +2,16 @@
 
 ## Objectivo
 
-Registar todos os requerentes da comunidade que desejam certificados para suas parcelas
+Registar todos os requerentes da comunidade que desejam certificar as suas parcelas.
 
 ## Processo
 
-O processo de formalização começa com o registo das pessoas que desejam certificados para suas parcelas.
+O processo de formalização começa com o registo das pessoas que desejam certificar as suas parcelas.
 
 Este processo de registo dos titulares é uma oportunidade importante para enfatizar os direitos das mulheres. A família tem várias opções:
 
-* cada parcela pode ter um\(a\) único\(a\) titular \(seja homem ou mulher\), ou pode ter 2 ou mais co-titulares \(por exemplo um casal, ou irmãos, ou pais e filha \(o\) ou filhos\)
-* uma família com 2 ou mais parcelas pode registar cada parcela em nome de pessoas diferentes, por exemplo uma parcela em nome da mulher e outra em nome de homem
+* cada parcela pode ter um\(a\) único\(a\) titular \(seja homem ou mulher\), ou pode ter 2 ou mais co-titulares \(por exemplo um casal, ou irmãos, ou pais e filha \(o\) ou filhos\);
+* uma família com 2 ou mais parcelas pode registar cada parcela em nome de pessoas diferentes, por exemplo uma parcela em nome da mulher e outra em nome de homem.
 
 Os passos do processo são:
 
