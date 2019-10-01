@@ -41,7 +41,7 @@
   * [Emissão de Certificados](certificacao-de-parcelas-individuais-c-duats/emissao-de-certificados.md)
   * [Formulários ODK](certificacao-de-parcelas-individuais-c-duats/formularios-odk.md)
 * [Reajustamento das Parcelas Familiares](reajustamento-das-parcelas-familiares.md)
-* [O Plataforma Tecnologico](o-plataforma-tecnologico.md)
 * [Plano de Uso de Terra](plano-de-uso-de-terra/README.md)
   * [Formulários ODK](plano-de-uso-de-terra/formularios-odk.md)
+* [O Plataforma Tecnologico](o-plataforma-tecnologico.md)
 
